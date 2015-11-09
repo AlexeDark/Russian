@@ -1735,8 +1735,8 @@ ETC_20150317_001734	Undecided
 ETC_20150317_001735	This item does not have enough Potential.
 ETC_20150317_001736	This item does not have enough sockets.
 ETC_20150317_001737	You have insufficient funds.
-ETC_20150317_001738	Level 1 or higher
-ETC_20150317_001739	any class
+ETC_20150317_001738	Уровень 1 или выше
+ETC_20150317_001739	любой класс
 ETC_20150317_001740	Swordsman 
 ETC_20150317_001741	Archer 
 ETC_20150317_001742	Cleric 
@@ -1914,10 +1914,10 @@ ETC_20150317_001913	Откроется на следующем ранге про
 ETC_20150317_001914	Use a Skill Point to increase its skill level.
 ETC_20150317_001915	Equipment
 ETC_20150317_001916	Disabled
-ETC_20150317_001917	Enabled
-ETC_20150317_001918	Individual
-ETC_20150317_001919	Round Robin
-ETC_20150317_001920	Random
+ETC_20150317_001917	Включить
+ETC_20150317_001918	Индивидуальный
+ETC_20150317_001919	По-кругу
+ETC_20150317_001920	Случайно
 ETC_20150317_001921	Equal
 ETC_20150317_001922	By Level
 ETC_20150317_001923	View All
@@ -1929,7 +1929,7 @@ ETC_20150317_001928	{memo X}View Information
 ETC_20150317_001929	Канал
 ETC_20150317_001930	Do you want to move to channel {Channel}?
 ETC_20150317_001931	Price
-ETC_20150317_001932	Дом
+ETC_20150317_001932	 Дом
 ETC_20150317_001933	This channel is closed.
 ETC_20150317_001934	iCoin Shop
 ETC_20150317_001935	Defense
@@ -1968,7 +1968,7 @@ ETC_20150317_001967	Whisper
 ETC_20150317_001968	Right-click to equip
 ETC_20150317_001969	Right-click to sell
 ETC_20150317_001970	Right-click to remove
-ETC_20150317_001971	 Level or higher
+ETC_20150317_001971	 ур. или выше
 ETC_20150317_001972	Repair Cost
 ETC_20150317_001973	{Auto_2} of {Auto_1} items used
 ETC_20150317_001974	Item Rarity
@@ -5892,11 +5892,11 @@ ETC_20150317_005891	{memo X}Simple Description
 ETC_20150317_005892	{memo X}Detailed Description
 ETC_20150317_005893	{memo X}Additional description of the image
 ETC_20150317_005894	Basic Functions
-ETC_20150317_005895	Movement
-ETC_20150317_005896	{memo X}            You can move by using the arrow keys.
-ETC_20150317_005897	Arrow Keys
+ETC_20150317_005895	Передвижение
+ETC_20150317_005896	{memo X}            Ты можешь передвигаться используя клавиши стрелок.
+ETC_20150317_005897	Клавиши стрелок
 ETC_20150317_005898	{memo X} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} are used to move you character. 
-ETC_20150317_005899	  {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} {nl}combinations enable you to move diagonally.
+ETC_20150317_005899	  {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} {n1}комбинируя клавиши ты можешь передвигаться по диоганали.
 ETC_20150317_005900	{nl} {nl}Characters consume Stamina when moving.
 ETC_20150317_005901	{memo X}   Use jump to go over obstacles or climb higher areas.
 ETC_20150317_005902	{memo X}Press {img X 40 40} to make your character jump.
@@ -10014,7 +10014,7 @@ ETC_20150323_010015	Elementalist Advancement
 ETC_20150323_010016	Card Synthesis
 ETC_20150323_010017	Напишите ваше приветствие
 ETC_20150323_010018	{memo X}Visit Barrack
-ETC_20150323_010019	В БОЙ!
+ETC_20150323_010019	Начать игру
 ETC_20150323_010020	User Buy-in Shop
 ETC_20150323_010021	Buff Shop
 ETC_20150323_010022	Crafter is still using the skill.
@@ -13672,7 +13672,7 @@ ETC_20150729_013673	Mutant type monsters level up instead of sleeping when caste
 ETC_20150729_013674	Quick Recovery
 ETC_20150729_013675	Increase recovery
 ETC_20150729_013676	 are used to move your character around.
-ETC_20150729_013677	 are used for character movement. {nl} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
+ETC_20150729_013677	 используются для передвижения персонажа. {nl} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
 ETC_20150729_013678	Joypad : Press {img move_all 40 40} or {img stic_L 40 40} to move.
 ETC_20150729_013679	Mouse : {img mouseclick_left 40 40} on the area where you want to move the character.
 ETC_20150729_013680	When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40}, {img D 40 40} keys

@@ -723,12 +723,12 @@ UI_20150317_000722	{@st43}Attack Effects{/}
 UI_20150317_000723	{@st43}Defense Effects{/}
 UI_20150317_000724	{@st43}Stat{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
-UI_20150317_000726	{@st59}Информация про персонажа (F1){/}
+UI_20150317_000726	{@st59}Информация о персонаже (F1){/}
 UI_20150317_000727	{@st59}Инвентарь (F2){/}
 UI_20150317_000728	{@st59}Классы и умения (F3){/}
 UI_20150317_000729	{@st59}Журнал приключений (F4){/}
 UI_20150317_000730	{@st59}Задания (F5){/}
-UI_20150317_000731	{@st59}Пати (F6){/}
+UI_20150317_000731	{@st59}Группа (F6){/}
 UI_20150317_000732	{@st59}Друзья (F7){/}
 UI_20150317_000733	{@st59}Макросы (F8) {/}
 UI_20150317_000734	{@st59}Компаньоны (F9) {/}
@@ -998,7 +998,7 @@ UI_20150317_000997	{@st41b}Выбрать канал{/}
 UI_20150317_000998	{memo X}{@st43}Enter{/}
 UI_20150317_000999	{@St59}Старт игры с выбраным персонажем{/}
 UI_20150317_001000	{@St43}{s26}Team Name{/}
-UI_20150317_001001	{@st59}Team Name{/}
+UI_20150317_001001	{@st59}Имя команды{/}
 UI_20150317_001002	{memo X}{@st41b}Change Team Name{/}
 UI_20150317_001003	{memo X}{@st59} Change your team name{/}
 UI_20150317_001004	{@St41}Питомец{/}
@@ -1028,7 +1028,7 @@ UI_20150317_001027	{@st41b}Single Mode{/}
 UI_20150317_001028	{@St41b}Выход из игры{/}
 UI_20150317_001029	Save
 UI_20150317_001030	{@St59}If checked, your account will be saved{/}
-UI_20150317_001031	Сервера
+UI_20150317_001031	Серверы
 UI_20150317_001032	{@St59}Выбор сервера{/}
 UI_20150317_001033	Login Title
 UI_20150317_001034	Закрытый Бета Тест
@@ -1520,9 +1520,9 @@ UI_20150428_001519	{@st59}Use keyboard or joypad to control UI
 UI_20150428_001520	{memo X}Use Search Party 
 UI_20150428_001521	{memo X}When a character matching your party conditions is found {nl}[Party match found!] notice will be shown.
 UI_20150428_001522	{memo X}{@st41}Play Style{/}
-UI_20150428_001523	Questing
-UI_20150428_001524	Hunting
-UI_20150428_001525	Events
+UI_20150428_001523	Квесты
+UI_20150428_001524	Охота
+UI_20150428_001525	События
 UI_20150428_001526	{memo X}{@st41}Level Difference{/}
 UI_20150428_001527	{memo X}Not related
 UI_20150428_001528	{memo X}{@st41}Desired Class Type{/}
@@ -1583,19 +1583,19 @@ UI_20150714_001582	{@st41b}Invite
 UI_20150714_001583	{@st41}Если вы хотите изменить управление мышки,клавиатуры или геймпада то зайдите в настройки.{nl}
 UI_20150714_001584	{memo X}When you meet a character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
 UI_20150714_001585	{memo X}{@st42}Play Style{/}
-UI_20150714_001586	{@st42}Level Difference{/}
-UI_20150714_001587	Any
+UI_20150714_001586	{@st42}Разница в ур.{/}
+UI_20150714_001587	Любой
 UI_20150714_001588	{memo X}{@st42}Class Type{/}
 UI_20150714_001589	{memo X}{@st42}Party Name : %s{/}
 UI_20150714_001590	{memo X}{@st42}Description{/}
 UI_20150714_001591	{memo X}{@st42}Enter{/}
-UI_20150714_001592	{@st42}Item Priority
-UI_20150714_001593	{@st42}EXP Priority
-UI_20150714_001594	Individual EXP
-UI_20150714_001595	Equal EXP
-UI_20150714_001596	By Level
-UI_20150714_001597	{@st42}Quest Sharing
-UI_20150714_001598	Disabled
+UI_20150714_001592	{@st42}Приоритет дропа
+UI_20150714_001593	{@st42}Приоритет EXP
+UI_20150714_001594	Индивидуальный EXP
+UI_20150714_001595	Равный EXP
+UI_20150714_001596	По уровню
+UI_20150714_001597	{@st42}Групповые квесты
+UI_20150714_001598	Отключить
 UI_20150714_001599	{@st42}Public Party{/}
 UI_20150714_001600	{memo X}Level
 UI_20150714_001601	{@st42}Use 'Recommend Party'{/}
@@ -1712,12 +1712,12 @@ UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
 UI_20150717_001714	{memo X}{@st42b}Swordsman types can dash by pressing the arrow key twice.{/}
-UI_20150717_001715	{@st42}Имя пати и описание{/}
+UI_20150717_001715	{@st42}Имя группы и описание{/}
 UI_20150717_001716	{@st42}Insert Party Invite Tag
 UI_20150717_001717	{@st41b}Public Party List{/}
 UI_20150717_001718	{memo X}{@st41b}Recommended Character List{/}
 UI_20150717_001719	{@st41b}Receive Recommendation
-UI_20150717_001720	Это только для лидера пати.
+UI_20150717_001720	Это только для лидера группы.
 UI_20150717_001721	You must use the Party Member Recommendation function.
 UI_20150717_001722	{@st66b}Quest Class Name{/}
 UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
@@ -1739,11 +1739,11 @@ UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by
 UI_20150729_001739	{@st59}Close Arrow Crafting{/}
 UI_20150729_001740	{memo X}Fragments needed : Mutant %s / Beast %s / Plant %s
 UI_20150729_001741	{@st42b}         Swordsman могут ускорится                        двойным нажатием кнопки{/}
-UI_20150729_001742	{@st41}Party Settings
-UI_20150729_001743	{@st41}Party Recruit Settings
-UI_20150729_001744	{@st42}Search for Party Members{/}
+UI_20150729_001742	{@st41}Настройки группы
+UI_20150729_001743	{@st41}Настройка набора в группу
+UI_20150729_001744	{@st42}Поиск для членов группы{/}
 UI_20150729_001745	When a player meets the criteria you set up, a [Party Match!] message will be shown on your screen.
-UI_20150729_001746	{@st41b}Recommended Player List{/}
+UI_20150729_001746	{@st41b}Список рекомендованных игроков{/}
 UI_20150729_001747	{@st41}Характеристики
 UI_20150729_001748	{@st59}Cancel Enhancement{/}
 UI_20150729_001749	{@st59b}Gem/Card Enhancement{nl}{@st59s} - Select a gem or card from your inventory to enhance it.{nl} - All items with exception of quest items can be used as materials for enhancing gems.{nl} (Most effective when using a gem as material){nl} - Cards can only be enhanced by using other cards.{/}
@@ -1786,10 +1786,10 @@ UI_20150918_001785	{#000000}Entry Level{/}
 UI_20150918_001786	{#000000}Entry Count{/}
 UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
 UI_20150918_001788	{img silver 20 20} Price
-UI_20150918_001789	Инфо про пати рядом
+UI_20150918_001789	Ближайшие группы
 UI_20150918_001790	Required Fragments : %s 
 UI_20150918_001791	{@st66b}Empty
-UI_20150918_001792	{@st42}Show Nearby Parties{/}
+UI_20150918_001792	{@st42}Группы рядом{/}
 UI_20150918_001793	Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Friendship
 UI_20150918_001795	{@st41b}Obtained material for crafting an item!
